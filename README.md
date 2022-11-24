@@ -10,7 +10,7 @@
 
 | Temp | Date | Daily hours|
 |:----:|:----:|:----------:|
-|  01  | 1124 |            |
+|  01  | 1124 |maybe 60mins|
 |  02  | 1125 |            |
 |  03  | 1126 |            |
 |  04  | 1127 |            |
@@ -42,3 +42,21 @@ must be `VSCode`
 - AREPL for python
 - Todo Tree
 - WakaTime
+
+## How i learn
+
+> Microsoft learning documentation is very well done, i just need to read it, practice the code it provides, and experience the charm of code.
+
+1. just read!
+
+2. just copy `demo code` and use `ipython` or `jupyter` to run it!
+
+> There needs to be a good network. (dddd / doge~
+
+3. just try!
+
+And time to write my code!
+
+## Catalog
+
+[Introduction to machine learning](./Introduction_to_machine_learning/)
