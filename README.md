@@ -1,4 +1,4 @@
-# _ML
+# \_ML
 
 > Foundations of data science for machine learning
 
@@ -8,19 +8,18 @@
 
 `2022/11/24` - **Start Date**
 
-| Temp | Date | Daily hours|
-|:----:|:----:|:----------:|
-|  01  | 1124 |maybe 60mins|
-|  02  | 1125 |            |
-|  03  | 1126 |            |
-|  04  | 1127 |            |
-|  05  | 1130 |            |
-|  06  | 1202 |            |
-|  07  | 1203 |            |
-|  08  | 1204 |            |
-|  09  | 1207 |            |
-|  10  | 1208 |            |
-
+| Temp | Date | Daily hours  |
+| :--: | :--: | :----------: |
+|  01  | 1124 | maybe 60mins |
+|  02  | 1125 | maybe 30mins |
+|  03  | 1126 |              |
+|  04  | 1127 |              |
+|  05  | 1130 |              |
+|  06  | 1202 |              |
+|  07  | 1203 |              |
+|  08  | 1204 |              |
+|  09  | 1207 |              |
+|  10  | 1208 |              |
 
 `2022/12/08` - **Estimated End Date**
 
@@ -60,3 +59,5 @@ And time to write my code!
 ## Catalog
 
 [Introduction to machine learning](./Introduction_to_machine_learning/)
+
+[Build classical machine learning models with supervised learning](./Build_classical_machine_learning_models_with_supervised_learning/)
