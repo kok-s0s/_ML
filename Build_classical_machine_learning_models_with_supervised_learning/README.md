@@ -4,9 +4,11 @@
 
 ```bash
 pip3 install plotly
-pip3 install sklearn -- false - https://github.com/Homebrew/homebrew-core/issues/76621
+pip3 install scikit-learn
 ```
 
 [Exercise - Implement supervised learning](./Implement_supervised_learning/)
 
-[Exercise: Supervised learning by using different cost functions](./Supervised_learning_by_using_different_cost_functions/)
+[Exercise - Supervised learning by using different cost functions](./Supervised_learning_by_using_different_cost_functions/)
+
+[Exercise - Implement gradient descent](./Implement_gradient_descent/)
