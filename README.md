@@ -13,8 +13,8 @@
 |  01  | 1124 | maybe 60mins |
 |  02  | 1125 | maybe 30mins |
 |  03  | 1126 | maybe 25mins |
-|  04  | 1127 |              |
-|  05  | 1130 |              |
+|  04  | 1127 |    Forgot    |
+|  05  | 1130 | maybe 40mins |
 |  06  | 1202 |              |
 |  07  | 1203 |              |
 |  08  | 1204 |              |
@@ -61,3 +61,5 @@ And time to write my code!
 [Introduction to machine learning](./Introduction_to_machine_learning/)
 
 [Build classical machine learning models with supervised learning](./Build_classical_machine_learning_models_with_supervised_learning/)
+
+[Introduction to data for machine learning](./Introduction_to_data_for_machine_learning/)
