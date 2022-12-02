@@ -15,7 +15,7 @@
 |  03  | 1126 | maybe 25mins |
 |  04  | 1127 |    Forgot    |
 |  05  | 1130 | maybe 40mins |
-|  06  | 1202 |              |
+|  06  | 1202 | maybe 45mins |
 |  07  | 1203 |              |
 |  08  | 1204 |              |
 |  09  | 1207 |              |
@@ -25,7 +25,7 @@
 
 ## Tools
 
-### compiler
+### Compiler
 
 must be `python3`
 
@@ -63,3 +63,5 @@ And time to write my code!
 [Build classical machine learning models with supervised learning](./Build_classical_machine_learning_models_with_supervised_learning/)
 
 [Introduction to data for machine learning](./Introduction_to_data_for_machine_learning/)
+
+[Explore and analyze data with Python](./Explore_and_analyze_data_with_Python/)
