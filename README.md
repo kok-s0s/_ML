@@ -16,8 +16,9 @@
 |  04  | 1127 |    Forgot    |
 |  05  | 1130 | maybe 40mins |
 |  06  | 1202 | maybe 45mins |
-|  07  | 1203 |              |
-|  08  | 1204 |              |
+|  07  | 1203 |    Forgot    |
+|  08  | 1204 |    Forgot    |
+|  08  | 1206 | maybe 45mins |
 |  09  | 1207 |              |
 |  10  | 1208 |              |
 
@@ -58,10 +59,12 @@ And time to write my code!
 
 ## Catalog
 
-[Introduction to machine learning](./Introduction_to_machine_learning/)
+- [Introduction to machine learning](./Introduction_to_machine_learning/)
 
-[Build classical machine learning models with supervised learning](./Build_classical_machine_learning_models_with_supervised_learning/)
+- [Build classical machine learning models with supervised learning](./Build_classical_machine_learning_models_with_supervised_learning/)
 
-[Introduction to data for machine learning](./Introduction_to_data_for_machine_learning/)
+- [Introduction to data for machine learning](./Introduction_to_data_for_machine_learning/)
 
-[Explore and analyze data with Python](./Explore_and_analyze_data_with_Python/)
+- [Explore and analyze data with Python](./Explore_and_analyze_data_with_Python/)
+
+- [Train and understand regression models in machine learning](./Train_and_understand_regression_models_in_machine_learning/)
