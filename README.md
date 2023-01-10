@@ -9,7 +9,7 @@
 `2022/11/24` - **Start Date**
 
 | Temp | Date | Daily hours  |
-| :--: | :--: | :----------: |
+|:----:|:----:|:------------:|
 |  01  | 1124 | maybe 60mins |
 |  02  | 1125 | maybe 30mins |
 |  03  | 1126 | maybe 25mins |
@@ -19,10 +19,16 @@
 |  07  | 1203 |    Forgot    |
 |  08  | 1204 |    Forgot    |
 |  08  | 1206 | maybe 45mins |
-|  09  | 1207 |              |
-|  10  | 1208 |              |
+|  09  | 1207 |    Forgot    |
+|  10  | 1208 |    Forgot    |
 
-`2022/12/08` - **Estimated End Date**
+~~`2022/12/08` - **Estimated End Date**~~
+
+**2023**
+
+| Temp | Date | Daily hours  |
+|:----:|:----:|:------------:|
+|  01  | 0110 | maybe 45mins |
 
 ## Tools
 
@@ -68,3 +74,5 @@ And time to write my code!
 - [Explore and analyze data with Python](./Explore_and_analyze_data_with_Python/)
 
 - [Train and understand regression models in machine learning](./Train_and_understand_regression_models_in_machine_learning/)
+
+- [Refine and test machine learning models](./Refine_and_test_machine_learning_models/)
